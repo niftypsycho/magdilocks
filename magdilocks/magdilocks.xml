@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Christian\Documents\GitHub\magdilocks\magdilocks\magdilocks.kicad_sch</source>
+    <date>7/2/2022 4:34:11 PM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>magdilocks.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>master-vampire:C_0805</footprint>
+      <fields>
+        <field name="Capacitance">0.047uF</field>
+        <field name="MPN">CL21B473KBCNNNC</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Package">0805</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="TempCo">X7R</field>
+        <field name="Tolerance">20per</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="master-vampire" part="C" description=""/>
+      <property name="Capacitance" value="0.047uF"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="TempCo" value="X7R"/>
+      <property name="Tolerance" value="20per"/>
+      <property name="Package" value="0805"/>
+      <property name="MPN" value="CL21B473KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46a68cf3-578e-4fb4-aa05-388b70c3260f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>master-vampire:C_0805</footprint>
+      <fields>
+        <field name="Capacitance">100nF</field>
+        <field name="LCSC">C695378</field>
+        <field name="MPN">CL21B104KACNNNC</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Package">0805</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">1276-1099-1-ND</field>
+        <field name="TempCo">X7R</field>
+        <field name="Tolerance">20per</field>
+        <field name="Variant_DRV"/>
+        <field name="Variant_Si7210">DNP</field>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="master-vampire" part="C" description=""/>
+      <property name="Capacitance" value="100nF"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="TempCo" value="X7R"/>
+      <property name="Tolerance" value="20per"/>
+      <property name="Package" value="0805"/>
+      <property name="MPN" value="CL21B104KACNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="1276-1099-1-ND"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="LCSC" value="C695378"/>
+      <property name="Variant_DRV" value="~"/>
+      <property name="Variant_Si7210" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e90bd1b2-d93a-495b-b3a0-adb4ae912fd2</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_1x3</value>
+      <footprint>master-vampire:CONN_HEADER_MALE_1X3PIN_P1.27MM_TH_Phob</footprint>
+      <fields>
+        <field name="MPN">GRPB031VWVN-RC</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Sullins Connector Solutions</field>
+        <field name="Package">Through-hole</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">S9014E-03-ND</field>
+        <field name="Variant_DRV"/>
+        <field name="Variant_Si7210">DNP</field>
+      </fields>
+      <libsource lib="master-vampire" part="Conn_1x3" description="connector"/>
+      <property name="Manufacturer" value="Sullins Connector Solutions"/>
+      <property name="MPN" value="GRPB031VWVN-RC"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Package" value="Through-hole"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="S9014E-03-ND"/>
+      <property name="Variant_DRV" value="~"/>
+      <property name="Variant_Si7210" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10a60d25-95eb-42ed-ac3f-e772c1266da2</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_1x3</value>
+      <footprint>master-vampire:CONN_HEADER_MALE_1X3PIN_P1.27MM_TH</footprint>
+      <fields>
+        <field name="MPN">GRPB031VWVN-RC</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Sullins Connector Solutions</field>
+        <field name="Package">Through-Hole</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="Conn_1x3" description="connector"/>
+      <property name="Manufacturer" value="Sullins Connector Solutions"/>
+      <property name="MPN" value="GRPB031VWVN-RC"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Package" value="Through-Hole"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbadd378-5003-4862-9425-e76e1d004414</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_1x3</value>
+      <footprint>master-vampire:CONN_HEADER_MALE_1X3PIN_P1.27MM_TH</footprint>
+      <fields>
+        <field name="MPN">GRPB031VWVN-RC</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Sullins Connector Solutions</field>
+        <field name="Package">Through-Hole</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="Conn_1x3" description="connector"/>
+      <property name="Manufacturer" value="Sullins Connector Solutions"/>
+      <property name="MPN" value="GRPB031VWVN-RC"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Package" value="Through-Hole"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3187ade5-59b4-45d3-8bcb-5e862300dac8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>master-vampire:R_0805</footprint>
+      <fields>
+        <field name="LCSC">C269724</field>
+        <field name="MPN">RNCP0805FTD10K0</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Package">0805</field>
+        <field name="Power">1/10W</field>
+        <field name="Resistance">10k</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Tolerance">5per</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="R" description=""/>
+      <property name="Resistance" value="10k"/>
+      <property name="Power" value="1/10W"/>
+      <property name="Package" value="0805"/>
+      <property name="Tolerance" value="5per"/>
+      <property name="MPN" value="RNCP0805FTD10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="LCSC" value="C269724"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4f8ecee-538d-4b86-bbea-4e0baeaef115</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>master-vampire:R_0805</footprint>
+      <fields>
+        <field name="LCSC">C269724</field>
+        <field name="MPN">RNCP0805FTD10K0</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Package">0805</field>
+        <field name="Power">1/10W</field>
+        <field name="Resistance">10k</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Tolerance">5per</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="R" description=""/>
+      <property name="Resistance" value="10k"/>
+      <property name="Power" value="1/10W"/>
+      <property name="Package" value="0805"/>
+      <property name="Tolerance" value="5per"/>
+      <property name="MPN" value="RNCP0805FTD10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="LCSC" value="C269724"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7e8caa9-d7d9-429f-bc01-244ee02351a4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>master-vampire:R_0805</footprint>
+      <fields>
+        <field name="LCSC">C269724</field>
+        <field name="MPN">RNCP0805FTD10K0</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Package">0805</field>
+        <field name="Power">1/10W</field>
+        <field name="Resistance">10k</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Tolerance">5per</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="R" description=""/>
+      <property name="Resistance" value="10k"/>
+      <property name="Power" value="1/10W"/>
+      <property name="Package" value="0805"/>
+      <property name="Tolerance" value="5per"/>
+      <property name="MPN" value="RNCP0805FTD10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="LCSC" value="C269724"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca278d47-8dab-4971-928f-415a5a41023e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>master-vampire:R_0805</footprint>
+      <fields>
+        <field name="LCSC">C186482</field>
+        <field name="MPN">CRG0805F2K0</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">TE Connectivity Passive Product</field>
+        <field name="Package">0805</field>
+        <field name="Power">1/10W</field>
+        <field name="Resistance">2k</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Tolerance">5per</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="R" description=""/>
+      <property name="Resistance" value="2k"/>
+      <property name="Power" value="1/10W"/>
+      <property name="Package" value="0805"/>
+      <property name="Tolerance" value="5per"/>
+      <property name="MPN" value="CRG0805F2K0"/>
+      <property name="Manufacturer" value="TE Connectivity Passive Product"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="LCSC" value="C186482"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07315a07-0cae-40b9-9996-7063c5b08022</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>U_DRV5053</value>
+      <footprint>master-vampire:SOT-23-3</footprint>
+      <fields>
+        <field name="MPN">DRV5053PAQDBZTQ1</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Package">SOT-23-3</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">296-DRV5053PAQDBZTQ1CT-ND</field>
+        <field name="Variant_DRV"/>
+        <field name="Variant_Si7210">DNP</field>
+      </fields>
+      <libsource lib="master-vampire" part="U_DRV5053" description="SENSOR HALL EFFECT ANALOG"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="DRV5053PAQDBZTQ1"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="296-DRV5053PAQDBZTQ1CT-ND"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Package" value="SOT-23-3"/>
+      <property name="Variant_DRV" value="~"/>
+      <property name="Variant_Si7210" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>401ae3bb-7921-49e4-887f-3681cabbf066</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>U_Si7210</value>
+      <footprint>master-vampire:SOT-23-5</footprint>
+      <fields>
+        <field name="MPN">SI7210-B-00-IV</field>
+        <field name="MV PN">DNP</field>
+        <field name="Manufacturer">Silicon Labs</field>
+        <field name="Package">SOT-23-5</field>
+        <field name="Supplier">DigiKey</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Variant_DRV">DNP</field>
+        <field name="Variant_Si7210"/>
+      </fields>
+      <libsource lib="master-vampire" part="U_Si7210" description="SENSOR HALL EFFECT I2C"/>
+      <property name="Manufacturer" value="Silicon Labs"/>
+      <property name="MPN" value="SI7210-B-00-IV"/>
+      <property name="Supplier" value="DigiKey"/>
+      <property name="Supplier PN" value="DNP"/>
+      <property name="Package" value="SOT-23-5"/>
+      <property name="MV PN" value="DNP"/>
+      <property name="Variant_DRV" value="DNP"/>
+      <property name="Variant_Si7210" value="~"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magdilocks.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59617731-42da-407c-a431-3276200ebe56</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="master-vampire" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Capacitance">1uF</field>
+        <field name="Voltage Rating">50V</field>
+        <field name="TempCo">X7R</field>
+        <field name="Tolerance">20per</field>
+        <field name="Package">0603</field>
+        <field name="MPN">DNP</field>
+        <field name="Manufacturer">DNP</field>
+        <field name="Supplier">DNP</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="MV PN">DNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="master-vampire" part="Conn_1x3">
+      <description>connector</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_1x3</field>
+        <field name="Manufacturer">DNP</field>
+        <field name="MPN">DNP</field>
+        <field name="MV PN">DNP</field>
+        <field name="Package">DNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+        <pin num="3" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="master-vampire" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Resistance">10k</field>
+        <field name="Power">1/10W</field>
+        <field name="Package">0603</field>
+        <field name="Tolerance">5%</field>
+        <field name="MPN">DNP</field>
+        <field name="Manufacturer">DNP</field>
+        <field name="Supplier">DNP</field>
+        <field name="Supplier PN">DNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="master-vampire" part="U_DRV5053">
+      <description>SENSOR HALL EFFECT ANALOG</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">U_DRV5053</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">DRV5053xx</field>
+        <field name="Supplier">DNP</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="MV PN">DNP</field>
+        <field name="Package">DNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="master-vampire" part="U_Si7210">
+      <description>SENSOR HALL EFFECT I2C</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">U_Si7210</field>
+        <field name="Manufacturer">Silicon Labs</field>
+        <field name="MPN">Si7210xx</field>
+        <field name="Supplier">DNP</field>
+        <field name="Supplier PN">DNP</field>
+        <field name="Package">DNP</field>
+        <field name="MV PN">DNP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="SCL" type="bidirectional"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="ALERT" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="master-vampire">
+      <uri>C:\Users\Christian\Documents\GitHub\magdilocks\magdilocks/../../master-vampire/master-vampire.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="bidirectional"/>
+      <node ref="J2" pin="1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/OUT_FLT">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="bidirectional"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/OUT_RAW">
+      <node ref="J1" pin="2" pintype="bidirectional"/>
+      <node ref="J2" pin="3" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="OUT" pintype="output"/>
+      <node ref="U2" pin="5" pinfunction="ALERT" pintype="output"/>
+    </net>
+    <net code="4" name="/SCL">
+      <node ref="J3" pin="2" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/SDA">
+      <node ref="J3" pin="1" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="bidirectional"/>
+      <node ref="J3" pin="3" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+  </nets>
+</export>

@@ -389,7 +389,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "magdilocks.step",
+      "step": "../production/magdilocks-v2.0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
